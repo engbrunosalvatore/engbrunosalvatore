@@ -29,10 +29,7 @@ What interests me most is not only developing an AI model, but engineering the *
 
 My Ph.D. research focuses on the development of **non-invasive biosignal acquisition and processing systems** and on **Machine Learning / Deep Learning algorithms** for extracting physiological features and clinically relevant information from biomedical signals.
 
-I am especially interested in the transition from experimental AI pipelines to real-world intelligent devices, including:
-
-**biosignal acquisition → signal processing → feature extraction → AI/ML → embedded inference → digital health applications**
-
+I am especially interested in the transition from experimental AI pipelines to real-world intelligent devices.
 ---
 
 ## Background
@@ -41,21 +38,25 @@ I hold an **M.S. in Information Engineering for Digital Medicine** and a **B.S. 
 
 During my M.Sc. thesis, I designed, implemented, and integrated an end-to-end **non-invasive wearable system for PPG-based blood glucose estimation**, combining Python-based signal processing and Machine Learning, XGBoost inference on an STM32 microcontroller, and a Bluetooth-connected Android companion application.
 
-My broader experience also includes **reinforcement learning for robotic control, real-time embedded systems, software architecture, mobile development, and AI education**.
 
 ---
 
-## What I Work With
+## Technologies I Work With
 
 **Languages**  
-Python · Java · C · SQL · JavaScript · Swift · Bash
+Python · C · C++ · Java · Kotlin · Swift · JavaScript · SQL · Bash
 
-**AI & Machine Learning**  
-PyTorch · TensorFlow · XGBoost · Deep Learning · Reinforcement Learning · Model Evaluation · Signal Processing
+**AI & Data**  
+PyTorch · TensorFlow · XGBoost · Scikit-learn · NumPy · Pandas · Deep Learning · Reinforcement Learning · Signal Processing
 
-**Systems & Development**  
-STM32 · Embedded C · Linux · Git · Docker · PyBullet · ROS · Android · SwiftUI · PostgreSQL · MySQL
+**Embedded & Robotics**  
+STM32 · Embedded C/C++ · ROS · PyBullet · Real-Time Systems · Sensor Integration · IoT
 
+**Mobile & Backend**  
+Android · Android Studio · SwiftUI · REST APIs · PostgreSQL · MySQL
+
+**Tools & DevOps**  
+Linux · Git · GitHub · Docker · CMake · VS Code · Jupyter
 ---
 
 ## Beyond Research
