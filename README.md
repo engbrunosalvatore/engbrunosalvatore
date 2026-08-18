@@ -6,7 +6,6 @@
 
 ### Ph.D. Candidate in Computer Engineering
 
-**Artificial Intelligence · Machine Learning · Embedded Systems · Digital Health**
 
 University of Salerno, Italy
 
