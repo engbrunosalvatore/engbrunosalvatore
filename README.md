@@ -1,8 +1,8 @@
-# Hi, I'm Salvatore Bruno 👋
+
 
 <div align="center">
 
-# Salvatore Bruno
+# Hi, I'm Salvatore Bruno 👋
 
 ### Ph.D. Candidate in Computer Engineering
 
